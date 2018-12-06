@@ -2,8 +2,8 @@
 An opportunity to explore how to make an EV3 Robot move.
 
 Authors: Dave Fisher, David Mutchler, Vibha Alangar,
-their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+their colleagues, and Alexander Tabuyo.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # -----------------------------------------------------------------------------
 # TODO: 2.

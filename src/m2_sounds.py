@@ -37,7 +37,8 @@ def main():
                 (311.13, 250, 100), (466.16, 25, 100), (392.00, 300, 150),
                 (311.13, 250, 100), (466.16, 25, 100), (392, 700)]
 
-    talker = rb.Speech('hello')
+    talker = rb.Speech('Hayden has ligma')
+    rb.Song(fun_song).play()
     talker.speak()
 
 main()
